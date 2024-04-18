@@ -23,7 +23,10 @@
     "react-native-app-clip",
     "ReactNativeAppClip"
   ],
-  "repository": "https://github.com/bndkt/react-native-app-clip",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bndkt/react-native-app-clip.git"
+  },
   "bugs": {
     "url": "https://github.com/bndkt/react-native-app-clip/issues"
   },
